@@ -1,0 +1,48 @@
+.fundo1{
+    background-color: red;
+    text-align: center;
+}
+
+.fundo{
+    background-color: rgb(9, 49, 122);
+}
+
+.letra{
+    color: white;
+}
+
+h3{
+    color:white;
+}
+
+.questão{
+    color:white;
+}
+
+.borda{
+    border: solid 7px black;
+}
+
+#quiz{
+    text-align: center;
+}
+
+#botao{
+    text-align: center;
+}
+
+p{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.estilo{
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.estilo2{
+    font-weight: bold;
+    font-size: 22px;
+}
